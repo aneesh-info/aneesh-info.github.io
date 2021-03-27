@@ -165,7 +165,7 @@ body {
 	.fa-whatsapp {
 		border-radius: 50%;
 		color: white;
-		background-color: rgb(6, 175, 6);
+		background-color: #4fce5d;
 	}
 	
 	
@@ -267,7 +267,7 @@ body {
 	.fa-whatsapp {
 		border-radius: 50%;
 		color: white;
-		background-color: rgb(6, 175, 6);
+		background-color: #4fce5d;
 	}
 	
 	.fa-facebook {
@@ -386,7 +386,7 @@ body {
 .fa-whatsapp:hover {
 	border-radius: 50%;
 	color: white;
-	background-color: rgb(6, 175, 6);
+	background-color: #4fce5d;
 }
 
 .fa-facebook:hover {
