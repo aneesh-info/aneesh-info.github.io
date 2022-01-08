@@ -5,7 +5,7 @@
 body {
 	width: 100%;
 	margin: 0px;
-	background-image: url(img/asdf.jpg);
+	background-image: url(img/asdf.png);
 	background-repeat: repeat-y no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -94,7 +94,7 @@ body {
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(img/asdf.jpg) fixed no;
+		background: url(img/asdf.png) fixed no;
 		overflow-x: hidden;
 		
 	}
@@ -198,7 +198,7 @@ body {
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(img/bg.jpg) fixed no;
+		background: url(img/bg.png) fixed no;
 		overflow-x: hidden;
 	}
 	hr {
@@ -299,7 +299,7 @@ body {
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(img/asdf.jpg) fixed no;
+		background: url(img/asdf.png) fixed no;
 		overflow-x: hidden;
 	}
 	hr {
